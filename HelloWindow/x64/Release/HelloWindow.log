@@ -1,0 +1,63 @@
+﻿  main.cpp
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(236,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(237,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(241,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(242,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(243,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(244,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(657,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(772,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(807,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(822,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(853,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(867,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(895,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(896,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(897,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(898,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(899,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(900,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(901,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(906,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(909,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(912,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(915,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(918,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(921,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(924,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(927,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(978,30): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  3 of 1758 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+LINK : warning LNK4286: symbol '__glewUniform1i' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewActiveTexture' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'libglew32.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewDeleteBuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewGenerateMipmap' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewDeleteVertexArrays' defined in 'libglew32.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewLinkProgram' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewDeleteShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetProgramInfoLog' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewShaderSource' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewAttachShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetProgramiv' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderInfoLog' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCreateProgram' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCreateShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewCompileShader' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewGetShaderiv' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUseProgram' defined in 'libglew32.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '__glewUniformMatrix4fv' defined in 'libglew32.lib(glew.obj)' is imported by 'SkyBox.obj'
+LINK : warning LNK4286: symbol 'glewExperimental' defined in 'libglew32.lib(glew.obj)' is imported by 'Window.obj'
+LINK : warning LNK4286: symbol 'glewInit' defined in 'libglew32.lib(glew.obj)' is imported by 'Window.obj'
+  HelloWindow.vcxproj -> C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\x64\Release\HelloWindow.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(158,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(159,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(163,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(164,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(165,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(166,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\HelloWindow\main.cpp(438,17): warning C4305: '+=': truncation from 'double' to 'float'
+  HelloWindow.vcxproj -> C:\Users\anama\OneDrive\Desktop\PG\PROIECT\HelloWindow\x64\Debug\HelloWindow.exe
